@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826399227870",
+    "project_id": "rentykun",
+    "storage_bucket": "rentykun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826399227870:android:e9dbf151a98a626c1ba74f",
+        "android_client_info": {
+          "package_name": "com.rentykun.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeIxDLyINf3vwVo8XiHlvlk0cz2XcLPe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
